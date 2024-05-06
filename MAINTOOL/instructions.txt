@@ -1,0 +1,13 @@
+First of all this tool is generating leads by areacodes for different banks.
+
+10 Banks with different area codes.
+
+HLR means home location register.
+
+If you have generated some leads, the tool prx.py downloads proxies and then starts the tool hrlcall.
+
+It checks proxies and start t1-4.py (same tools).
+
+t1-4.py is the HLR Lookup.
+
+To follow the instructions check out the video tutorial.
